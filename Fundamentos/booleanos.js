@@ -34,7 +34,3 @@ console.log(nome || 'Desconhecido') //mostra a verdadeira por ordem
 nome = 'Lucas'
 console.log(nome || 'Desconhecido') //mostra a verdadeira por ordem
 
-
-let rato = ""
-
-console.log(rato || 'sem pitoca'  )

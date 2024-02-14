@@ -16,12 +16,3 @@ console.log(media.toString(2)) // toString() Para fazer um numero binario
 console.log(typeof media)
 console.log(typeof Number)
 
-const rato = 'sempitoca'
-
-console.log(typeof rato)
-
-const ratonego = false
-console.log(typeof ratonego)
-
-const ratonegueba = 2
-console.log(typeof ratonegueba)
