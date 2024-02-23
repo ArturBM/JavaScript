@@ -18,4 +18,4 @@ teste2(6)
 teste2(8)
 
 //NAO USE ; com as estruturas de controle
-//use chave nas estruturas de controle
+//use chave nas estruturas de controlefunction() {
